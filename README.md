@@ -1,16 +1,20 @@
 # pokemon
 
-A new Flutter project.
+A new Pokemon demo using Flutter.
 
-## Getting Started
+## Enviroment: 
 
-This project is a starting point for a Flutter application.
+Flutter 3.3.7 • channel stable
+Engine • revision 857bd6b74c
+Tools • Dart 2.18.4 • DevTools 2.15.0
+Xcode • 13.4.1 
+Simulator IPhone 12 IOS 15.5
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run the this demo, please follow the below steps.
+
+* Navigate to the 'Pokemon' folder and open it using VS code or Android studio.
+* Now get the required packages referred in the 'pubspec.yaml' file to run the project.
+* Run the project by connecting an emulator or a physical device.

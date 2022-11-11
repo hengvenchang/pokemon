@@ -38,6 +38,7 @@ dependencies:
   equatable: ^2.0.3
   palette_generator: 0.3.3+2
   tiktoklikescroller: ^0.2.3
+  flutter_native_splash: ^2.2.14
 
 
   # The following adds the Cupertino Icons font to your application.
